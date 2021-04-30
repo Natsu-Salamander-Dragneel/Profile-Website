@@ -120,3 +120,6 @@ background-color: royalblue;
  html{
      scroll-behavior: smooth;
  }
+ h3{
+     display: inline;
+ }
